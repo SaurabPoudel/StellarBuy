@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "subcategories": [
+        {
+          "id": 11,
+          "name": "Mobile Phones"
+        },
+        {
+          "id": 12,
+          "name": "Laptops"
+        },
+        {
+          "id": 13,
+          "name": "Televisions"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Clothing",
+      "subcategories": [
+        {
+          "id": 21,
+          "name": "Men's Clothing"
+        },
+        {
+          "id": 22,
+          "name": "Women's Clothing"
+        },
+        {
+          "id": 23,
+          "name": "Kid's Clothing"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Home & Kitchen",
+      "subcategories": [
+        {
+          "id": 31,
+          "name": "Furniture"
+        },
+        {
+          "id": 32,
+          "name": "Appliances"
+        },
+        {
+          "id": 33,
+          "name": "Decor"
+        }
+      ]
+    }
+  ]
+}
